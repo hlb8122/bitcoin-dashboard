@@ -1,0 +1,10 @@
+[package]
+name = "bitcoin-dashboard"
+version = "0.1.0"
+authors = ["Harry Barber <harrybarber@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+tui = "0.8.0"
+termion = "1.5.4"
+rand = "0.7.2"
